@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "real-estate-app"
+    }
+  },
+  "defaultProject": "real-estate-app",
+  "cli": {
+    "analytics": "3cbda0ac-6cd2-4606-8471-1f912278e132"
+  }
 }
